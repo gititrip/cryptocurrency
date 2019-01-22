@@ -1,3 +1,3 @@
 # cryptocurrency
-cryptocurrency - bitcoin - ethereum - ripple - tether - monero 
+cryptocurrency - bitcoin 
 https://coinextend.com/currencies/bitcoin/
